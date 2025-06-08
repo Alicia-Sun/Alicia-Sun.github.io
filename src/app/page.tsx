@@ -48,7 +48,7 @@ export default function Home() {
                     newsData.length > 0 && (
                       <section key={sectionName}>
                         <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
-                          News
+                          Updates
                         </h2>
                         <div className="space-y-12">
                           {newsData.map((news, index) => (
@@ -118,8 +118,13 @@ export default function Home() {
                     portfolioData.length > 0 && (
                       <section key={sectionName}>
                         <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
-                          Portfolio
+                          Projects
                         </h2>
+                        <p className="text-sm text-zinc-700 leading-relaxed mb-8">
+                          Below is a compilation of both personal and school projects that I've worked on over the years. The most technically
+                          challenging, and the ones I'm most proud of, are <strong>PennCloud</strong>, a distributed and fault tolerant storage
+                          system similar to Google BigTable, and <strong>PennOS</strong>, where I worked on the file system aspect of an OS simulator.
+                        </p>
                         <div className="space-y-12">
                           {portfolioData.map((portfolio, index) => (
                             <PortfolioEntry key={index} portfolio={portfolio} />

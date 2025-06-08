@@ -18,22 +18,35 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
-  title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  name: "Alicia Sun",
+  title: "Student",
+  institution: "University of Pennsylvania",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
+    `Hi, thanks for checking out my page! I'm currently a <strong>final-year</strong> 
+    BSE and MSE student studying CS at <strong>UPenn</strong>.<br /><br />
+
+    I'm currently interning at <strong>Datadog</strong> on the Applied AI - 
+    Batch Engineering team where I am developing APIs for anomaly detection. Previously,
+    I've interned as a Software Engineer intern at <strong>Gusto</strong>, and 
+    have also TAed CIS 5480, Penn's <strong>Operating Systems</strong> course. At the
+    moment, I'm interested in large scale distributed systems and low level programming.  <br /><br />
+
+    Some fun facts about me: I have both a Mini Golden Doodle and an American Shorthair, 
+    I love making matcha and have tried a variety of blends, I boulder and play tennis, and
+    my favorite pieces of media are The Handmaiden, The Poppy War trilogy, Frieren, One Piece,
+    Rick and Morty, Arcane, and The Shining.<br /><br />
+    
+    This summer, I'm trying to become a lot more proficient in C++ and I'm following "Discovering Modern C++: 
+    An Intensive Course for Scientists, Engineers, and Programmers". I've also joined a systems reading group 
+    (<a href="https://notes.ekzhang.com/events/nysrg" target="_blank" rel="noopener noreferrer">NYSRG</a>).`,
+  email: "asun0102@seas.upenn.edu",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
-  blogUrl: "https://",
+    "/images/me-lulu-pfp.jpeg",
+  githubUsername: "Alicia-Sun",
+  linkedinUsername: "alicia-sun-a1118a1b3",
   cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+  institutionUrl: "https://www.upenn.edu",
   // altName: "",
-  // secretDescription: "I like dogs.",
+  secretDescription: "I'm emerald in League and TFT",
 };

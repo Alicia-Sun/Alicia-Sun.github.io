@@ -10,21 +10,34 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "May 2025 - Aug. 2025",
+    title: "Software Engineer Intern",
+    company: "Datadog",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "Worked on the Applied AI - Batch Engineering team, building a new backend service for deployment analysis of anomaly detection in Datadog’s Application Performance Monitoring product. Technologies included Python, Golang, and gRPC.",
+    companyUrl: "https://datadoghq.com",
   },
   {
-    date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
+    date: "Jan. 2025 - May 2025",
+    title: "Teaching Assistant",
+    company: "University of Pennsylvania",
     description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "TAed CIS 5480, Penn's Operating Systems class. The course was primarily project-based, so office hours were heavily focused on debugging C code and guiding students through systems level implementations.",
+    companyUrl: "https://www.seas.upenn.edu/~cis5480/25sp/",
+  },
+  {
+    date: "May 2024 - Aug. 2024",
+    title: "Software Engineer Intern",
+    company: "Gusto",
+    description:
+      "Full stack developer on the Security - Identity team, building a new feature to enhance suspicious activity detection. Primary technologies were Ruby, GraphQL, and React.",
+    companyUrl: "https://gusto.com/",
+  },
+  {
+    date: "May 2023 - Aug. 2023",
+    title: "Research Assistant",
+    company: "University of Pennsylvania",
+    description:
+      "Studied Neural Radiance Fields under Prof. Pratik Chaudhari",
   },
 ];

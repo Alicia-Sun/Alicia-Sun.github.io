@@ -56,8 +56,8 @@ export default function RootLayout({
                 </p>
               )}
             </div>
-            <div className="mb-4">
-              <p className="text-sm text-neutral-500 dark:text-neutral-500 justify">
+            <div className="mb-4 ml-auto text-right">
+              <p className="text-sm text-neutral-500 dark:text-neutral-500">
                 Built with{" "}
                 <a
                   href="https://github.com/tovacinni/research-website-template"

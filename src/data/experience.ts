@@ -40,4 +40,11 @@ export const experienceData: Experience[] = [
     description:
       "Studied Neural Radiance Fields under Prof. Pratik Chaudhari",
   },
+  {
+    date: "June 2022 - Aug. 2022",
+    title: "Burger Flipper",
+    company: "D & J Snack Bar and Grill",
+    description:
+      "Flipped burgers, made coffee, and sold snacks to kids and old people at local recreation center.",
+  },
 ];

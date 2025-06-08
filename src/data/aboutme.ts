@@ -27,14 +27,14 @@ export const aboutMe: AboutMe = {
     BSE and MSE student studying CS at <strong>UPenn</strong>.<br /><br />
 
     I'm currently interning at <strong>Datadog</strong> on the Applied AI - 
-    Batch Engineering team where I am developing APIs for anomaly detection. Previously,
+    Batch Engineering team where I am developing APIs for anomaly detection. Previously, 
     I've interned as a Software Engineer intern at <strong>Gusto</strong>, and 
-    have also TAed CIS 5480, Penn's <strong>Operating Systems</strong> course. At the
+    have also TAed CIS 5480, Penn's <strong>Operating Systems</strong> course. At the 
     moment, I'm interested in large scale distributed systems and low level programming.  <br /><br />
 
     Some fun facts about me: I have both a Mini Golden Doodle and an American Shorthair, 
     I love making matcha and have tried a variety of blends, I boulder and play tennis, and
-    my favorite pieces of media are The Handmaiden, The Poppy War trilogy, Frieren, One Piece,
+    my favorite pieces of media are The Handmaiden, The Poppy War trilogy, Frieren, One Piece, 
     Rick and Morty, Arcane, and The Shining.<br /><br />
     
     This summer, I'm trying to become a lot more proficient in C++ and I'm following "Discovering Modern C++: 

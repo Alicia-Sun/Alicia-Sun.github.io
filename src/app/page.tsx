@@ -121,8 +121,8 @@ export default function Home() {
                           Projects
                         </h2>
                         <p className="text-sm text-zinc-700 leading-relaxed mb-8">
-                          Below is a compilation of both personal and school projects that I've worked on over the years. The most technically
-                          challenging, and the ones I'm most proud of, are <strong>PennCloud</strong>, a distributed and fault tolerant storage
+                          Below is a compilation of both personal and school projects that I have worked on over the years. The most technically
+                          challenging, and the ones I am most proud of, are <strong>PennCloud</strong>, a distributed and fault tolerant storage
                           system similar to Google BigTable, and <strong>PennOS</strong>, where I worked on the file system aspect of an OS simulator.
                         </p>
                         <div className="space-y-12">

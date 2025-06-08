@@ -23,7 +23,8 @@ export const aboutMe: AboutMe = {
   institution: "University of Pennsylvania",
   // Note that links work in the description
   description:
-    `Hi, thanks for checking out my page! I'm currently a <strong>final-year</strong> 
+    `Hi and welcome to my page :) <br />
+    I'm currently a <strong>final-year</strong> 
     BSE and MSE student studying CS at <strong>UPenn</strong>.<br /><br />
 
     I'm currently interning at <strong>Datadog</strong> on the Applied AI - 
@@ -37,7 +38,7 @@ export const aboutMe: AboutMe = {
     my favorite pieces of media are The Handmaiden, The Poppy War trilogy, Frieren, One Piece, 
     Rick and Morty, Arcane, and The Shining.<br /><br />
     
-    This summer, I'm trying to become a lot more proficient in C++ and I'm following "Discovering Modern C++: 
+    This summer, I'm trying to become more proficient in C++ and I'm following "Discovering Modern C++: 
     An Intensive Course for Scientists, Engineers, and Programmers". I've also joined a systems reading group 
     (<a href="https://notes.ekzhang.com/events/nysrg" target="_blank" rel="noopener noreferrer">NYSRG</a>).`,
   email: "aliciasun01234@gmail.com",

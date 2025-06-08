@@ -40,13 +40,13 @@ export const aboutMe: AboutMe = {
     This summer, I'm trying to become a lot more proficient in C++ and I'm following "Discovering Modern C++: 
     An Intensive Course for Scientists, Engineers, and Programmers". I've also joined a systems reading group 
     (<a href="https://notes.ekzhang.com/events/nysrg" target="_blank" rel="noopener noreferrer">NYSRG</a>).`,
-  email: "asun0102@seas.upenn.edu",
+  email: "aliciasun01234@gmail.com",
   imageUrl:
     "/images/me-lulu-pfp.jpeg",
   githubUsername: "Alicia-Sun",
   linkedinUsername: "alicia-sun-a1118a1b3",
-  cvUrl: "https://",
+  cvUrl: "AliciaSunResume.pdf",
   institutionUrl: "https://www.upenn.edu",
   // altName: "",
-  secretDescription: "I'm emerald in League and TFT",
+  secretDescription: "I'm emerald in League and TFT :)",
 };

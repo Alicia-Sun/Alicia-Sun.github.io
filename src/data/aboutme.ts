@@ -49,5 +49,5 @@ export const aboutMe: AboutMe = {
   cvUrl: "AliciaSunResume.pdf",
   institutionUrl: "https://www.upenn.edu",
   // altName: "",
-  secretDescription: "I'm emerald in League and TFT :)",
+  secretDescription: "I'm Diamond in League and TFT :)",
 };

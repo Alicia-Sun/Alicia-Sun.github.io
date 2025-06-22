@@ -40,7 +40,10 @@ export const aboutMe: AboutMe = {
     
     This summer, I'm trying to become more proficient in C++ and I'm following "Discovering Modern C++: 
     An Intensive Course for Scientists, Engineers, and Programmers". I've also joined a systems reading group 
-    (<a href="https://notes.ekzhang.com/events/nysrg" target="_blank" rel="noopener noreferrer">NYSRG</a>).`,
+    (<a href="https://notes.ekzhang.com/events/nysrg" target="_blank" rel="noopener noreferrer">NYSRG</a>), 
+    and I'm currently working on a personal project: a distributed multi-producer multi-consumer (MPMC) queue
+    optimized for low latency.
+    `,
   email: "aliciasun01234@gmail.com",
   imageUrl:
     "/images/me-lulu-pfp.jpeg",

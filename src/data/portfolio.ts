@@ -9,6 +9,16 @@ export interface Portfolio {
 
 export const portfolioData: Portfolio[] = [
   {
+    title: "FlashQ",
+    description:
+      "A distributed MPMC queue optimized for low latency. Currently work in progress",
+    technologies: ["C++", "Makefile", "Sockets"],
+    projectUrl: "https://github.com/Alicia-Sun/FlashQ/tree/main",
+    imageUrl:
+      "/images/wip.png",
+    codeUrl: "https://github.com/Alicia-Sun/FlashQ/tree/main",
+  },
+  {
     title: "PennCloud - Distributed Storage and Webmail",
     description:
       "PennCloud is a fault resilient distributed and multithreaded storage system with frontend services built on top of this storage. I worked primarily on the backend storage system. The number of replicas and their addresses as well as coordinator must be provided by a config file. The system utilizes dynamic tablet partitioning (alphabetical range based tablets), LRU-based memory eviciton of tablets, and inter-server communication via TCP sockets. The system is fault tolerant through intermittent checkpoint and logging, as well as a slave-master replication architecture. A coordinator node redirects frontend servers to available backend nodes via Round Robin, and continuously receives heartbeat pulses for liveliness. Recovery protocol is also implemented.",

@@ -29,6 +29,15 @@ export const portfolioData: Portfolio[] = [
     codeUrl: "https://drive.google.com/file/d/1F5Msgrd41HxqwwncM57T8Hr4dLFWTpWA/view?usp=sharing",
   },
   {
+    title: "VEDETTE - LiDAR Drone",
+    description:
+      "Low cost lidar drone for indoor mapping. Designed for search and rescue operations and navigating adversarial/ambiguous environments. Won 'Best Overall Project' among the CIS Senior Design 2025 Competition.",
+    technologies: ["Python", "LidarView", "LiDAR", "Raspberry Pi", "React"],
+    projectUrl: "https://drive.google.com/drive/folders/1FRpioycQS8urTq08D_Azs2rkbub-F4CM?usp=sharing",
+    imageUrl:
+      "/images/vedette_thumbnail.png",
+  },
+  {
     title: "Distributed Chat System",
     description:
       "A chat client and replicated chat server which multicasts chat messages to replicas. Servers support multiple group communication protocols including uUnordered, FIFO, and Total Ordered multicast.",

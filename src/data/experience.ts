@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Software Engineer Intern",
     company: "Datadog",
     description:
-      "Worked on the Applied AI - Batch Engineering team, building a new backend service for deployment analysis of anomaly detection in Datadog’s Application Performance Monitoring product. Technologies included Python, Golang, and gRPC.",
+      "Worked on the Applied AI - Batch Engineering team, building a new backend service for deployment analysis of anomaly detection in Datadog’s Application Performance Monitoring product. Technologies include Python, Golang, and gRPC.",
     companyUrl: "https://datadoghq.com",
   },
   {

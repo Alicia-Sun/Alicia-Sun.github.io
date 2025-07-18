@@ -31,7 +31,7 @@ export const portfolioData: Portfolio[] = [
   {
     title: "VEDETTE - LiDAR Drone",
     description:
-      "Low cost lidar drone for indoor mapping. Designed for search and rescue operations and navigating adversarial/ambiguous environments. Won 'Best Overall Project' among the CIS Senior Design 2025 Competition.",
+      "Low cost lidar drone for indoor mapping. Designed for search and rescue operations and navigating adversarial/ambiguous environments. LiDAR packet capture data is integrated with SLAM algorithms for real time mapping. Won 'Best Overall Project' among the CIS Senior Design 2025 Competition.",
     technologies: ["Python", "LidarView", "LiDAR", "Raspberry Pi", "React"],
     projectUrl: "https://drive.google.com/drive/folders/1FRpioycQS8urTq08D_Azs2rkbub-F4CM?usp=sharing",
     imageUrl:
